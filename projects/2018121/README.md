@@ -75,7 +75,7 @@
 | --- | --- |
 | Χρονολόγιο | https://github.com/Geoross/site/blob/master/_timeline/multimedia.md |
 
-**Netlify Build**
+**Netlify Build:**
 | Base site | https://georosscustom.netlify.app/ |
 | --- | --- |
 | Android Gallery | https://georosscustom.netlify.app/gallery/android/ |
