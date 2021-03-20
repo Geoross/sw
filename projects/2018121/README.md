@@ -20,7 +20,7 @@
 | 12 | Τελική αναφορά* |
 
 
-## <a name="P">ΕΙΣΑΓΩΓΗ:</a>
+## ΠΑΡΑΔΟΤΕΟ 1. <a name="P">ΕΙΣΑΓΩΓΗ:</a>
 Στόχος μου μέσο του μαθήματος "Τεχνολογία λογισμικού" είναι η εξοικείωση με την διαδικασία, την οργάνωση και την προσαρμογή λογισμικού.
 
 ## ΠΑΡΑΔΟΤΕΟ 2. Βιογραφικό.             
@@ -50,7 +50,14 @@
               Περιγραφή εικόνας 2: https://github.com/Geoross/_gallery/blob/master/siri.md
 
 ## ΠΑΡΑΔΟΤΕΟ 5. Συμμετοχικό περιεχόμενο.             
-**A1:**
+**A1**
+Forked
+
+| site | https://github.com/Geoross/site |
+| --- | --- |
+| images | https://github.com/Geoross/images |
+| _gallery | https://github.com/Geoross/_gallery |
+
 
 | NORMAL SIZE | THUMB |
 | --- | --- |
@@ -63,3 +70,4 @@
   |https://github.com/Geoross/_gallery/blob/master/android.md|
   |https://github.com/Geoross/_gallery/blob/master/siri.md| 
 
+Asciinema link
