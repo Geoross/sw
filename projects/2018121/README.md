@@ -70,4 +70,6 @@
   |https://github.com/Geoross/_gallery/blob/master/android.md|
   |https://github.com/Geoross/_gallery/blob/master/siri.md| 
 
-Asciinema link
+
+| Remove submodules | https://asciinema.org/a/400776 |
+| --- | --- |
