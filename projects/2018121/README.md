@@ -53,7 +53,7 @@
 | _gallery | https://github.com/Geoross/_gallery |
 
 **Images:**
-| NORMAL SIZE | THUMB |
+| Normal Size | Thumb |
 | --- | --- |
 | https://github.com/Geoross/images/blob/master/android.jpg | https://github.com/Geoross/images/blob/master/android-thumb.jpg |
 | https://github.com/Geoross/images/blob/master/siri.jpg | https://github.com/Geoross/images/blob/master/siri-thumb.jpg |
