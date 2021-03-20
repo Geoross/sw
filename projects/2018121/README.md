@@ -23,7 +23,18 @@
 ## <a name="P">ΕΙΣΑΓΩΓΗ:</a>
 Στόχος μου μέσο του μαθήματος "Τεχνολογία λογισμικού" είναι η εξοικείωση με την διαδικασία, την οργάνωση και την προσαρμογή λογισμικού.
 
-## |ΠΑΡΑΔΟΤΕΟ 2. Βιογραφικό.|
+## ΠΑΡΑΔΟΤΕΟ 2. Βιογραφικό.             
+| Link | |
+| --- | --- |
+| cv-1 repo | https://github.com/Geoross/cv-1 |
+| asciinema | https://asciinema.org/a/395086 |
+
+Όπως φαίνεται και στο asciinema έκανα όλη την διαδικασία μέσω τέρμιναλ. Δημιούργησα το αρχείο details.yml συνοδευόμενο απο το κατάλληλο index.html αρχείο. Η σελίδα τοπικά    λειτουργούσε πλήρως αλλά υπάρχει ένα πρόβλημα όταν κάνω push απο τέρμιναλ σε github και τα αρχεία δεν ανεβαίνουν στο repo μου. Παρ'όλ'αυτά στο cv-1 repo έχω εφαρμόσει τις κατάλληλες ρυθμίσεις θέματος.
+
+
+| 20/03/2021 Έλυσα το πρόβλημα που αντιμετώπιζα στην τέρμιναλ.* | https://geoross.github.io/cv-1/ |
+| --- | --- |
+## ΠΑΡΑΔΟΤΕΟ 2. Βιογραφικό.
 | Link | |
 |cv-1 repo| https://github.com/Geoross/cv-1 |
 |asciinema| https://asciinema.org/a/395086 |
@@ -41,4 +52,3 @@
              Εικόνα 2-> https://github.com/Geoross/images/blob/master/siri.jpg thumb-> https://github.com/Geoross/images/blob/master/siri-thumb.jpg
       GALLERY Περιγραφή εικόνας 1: https://github.com/Geoross/_gallery/blob/master/android.md
               Περιγραφή εικόνας 2: https://github.com/Geoross/_gallery/blob/master/siri.md
-              
