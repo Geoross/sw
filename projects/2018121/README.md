@@ -43,12 +43,6 @@
 | site μετά τις αλλαγές | https://p18test.netlify.app/posts/2021/02/20/protypa-iatreia/ |
 
 
-## ΠΑΡΑΔΟΤΕΟ 5. Συμμετοχικό περιεχόμενο.
-  |Α1: IMAGES Εικόνα 1|-> https://github.com/Geoross/images/blob/master/android.jpg thumb-> https://github.com/Geoross/images/blob/master/android-thumb.jpg
-             Εικόνα 2-> https://github.com/Geoross/images/blob/master/siri.jpg thumb-> https://github.com/Geoross/images/blob/master/siri-thumb.jpg
-      GALLERY Περιγραφή εικόνας 1: https://github.com/Geoross/_gallery/blob/master/android.md
-              Περιγραφή εικόνας 2: https://github.com/Geoross/_gallery/blob/master/siri.md
-
 ## ΠΑΡΑΔΟΤΕΟ 5. Συμμετοχικό περιεχόμενο.             
 **A1)**
 **Forked:**
