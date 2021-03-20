@@ -34,19 +34,15 @@
 
 | 20/03/2021 Έλυσα το πρόβλημα που αντιμετώπιζα στην τέρμιναλ.* | https://geoross.github.io/cv-1/ |
 | --- | --- |
-## ΠΑΡΑΔΟΤΕΟ 2. Βιογραφικό.
-| Link | |
-|cv-1 repo| https://github.com/Geoross/cv-1 |
-|asciinema| https://asciinema.org/a/395086 |
-  Όπως φαίνεται και στο asciinema έκανα όλη την διαδικασία μέσω τέρμιναλ. Δημιούργησα το αρχείο details.yml συνοδευόμενο απο το κατάλληλο index.html αρχείο. Η σελίδα τοπικά    λειτουργούσε πλήρως αλλά υπάρχει ένα πρόβλημα όταν κάνω push απο τέρμιναλ σε github και τα αρχεία δεν ανεβαίνουν στο repo μου. Παρ'όλ'αυτά στο cv-1 repo έχω εφαρμόσει τις κατάλληλες ρυθμίσεις θέματος.
-  20/03/2021 Έλυσα το πρόβλημα που αντιμετώπιζα στην τέρμιναλ. Link: https://geoross.github.io/cv-1/
 
-## |ΠΑΡΑΔΟΤΕΟ 3. Αίτημα ενσωμάτωσης στην ιστοσελίδα.|
-| --- |
-  Χρησιμοποιώντας το Netlify πρόσθεσα στην σελίδα μια ανακοίνωση από το official site στην κατηγορία "Ανακοινώσεις" με τίτλο "Πρότυπα Ιατρεία Μνήμης για πρώτη φορά στην Ελλάδα" 
-  Link repository: https://github.com/Geoross/sitegr/tree/2018121
-  Link site μετά τις αλλαγές: https://p18test.netlify.app/posts/2021/02/20/protypa-iatreia/
-  
+## ΠΑΡΑΔΟΤΕΟ 3. Αίτημα ενσωμάτωσης στην ιστοσελίδα.
+Χρησιμοποιώντας το Netlify πρόσθεσα στην σελίδα μια ανακοίνωση από το official site στην κατηγορία "Ανακοινώσεις" με τίτλο "Πρότυπα Ιατρεία Μνήμης για πρώτη φορά στην Ελλάδα"
+| Link | |
+| --- | --- |
+| repository | https://github.com/Geoross/sitegr/tree/2018121 |
+| site μετά τις αλλαγές | https://p18test.netlify.app/posts/2021/02/20/protypa-iatreia/ |
+
+
 ## ΠΑΡΑΔΟΤΕΟ 5. Συμμετοχικό περιεχόμενο.
   |Α1: IMAGES Εικόνα 1|-> https://github.com/Geoross/images/blob/master/android.jpg thumb-> https://github.com/Geoross/images/blob/master/android-thumb.jpg
              Εικόνα 2-> https://github.com/Geoross/images/blob/master/siri.jpg thumb-> https://github.com/Geoross/images/blob/master/siri-thumb.jpg
