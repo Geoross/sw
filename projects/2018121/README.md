@@ -51,20 +51,20 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 5. Συμμετοχικό περιεχόμενο.             
 **A1)**
-**Forked**
+**Forked:**
 
 | site | https://github.com/Geoross/site |
 | --- | --- |
 | images | https://github.com/Geoross/images |
 | _gallery | https://github.com/Geoross/_gallery |
 
-**Images**
+**Images:**
 | NORMAL SIZE | THUMB |
 | --- | --- |
 | https://github.com/Geoross/images/blob/master/android.jpg | https://github.com/Geoross/images/blob/master/android-thumb.jpg |
 | https://github.com/Geoross/images/blob/master/siri.jpg | https://github.com/Geoross/images/blob/master/siri-thumb.jpg |
 
-**.md αρχεία με τις κατάλληλες περιγραφές**
+**.md αρχεία με τις κατάλληλες περιγραφές:**
 | Gallery Link |
 | --- |
   |https://github.com/Geoross/_gallery/blob/master/android.md|
@@ -73,3 +73,10 @@
 
 | Remove submodules | https://asciinema.org/a/400776 |
 | --- | --- |
+
+
+**A2)**
+
+| Θεματικές διαφάνειες | https://github.com/Geoross/site/blob/master/_slides/iui.md |
+| --- | --- |
+| Χρονολόγιο | https://github.com/Geoross/site/blob/master/_timeline/multimedia.md |
