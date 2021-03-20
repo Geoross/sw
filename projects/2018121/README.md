@@ -78,7 +78,7 @@
 **Netlify Build**
 | Base site | https://georosscustom.netlify.app/ |
 | --- | --- |
-| Android | https://georosscustom.netlify.app/gallery/android/ |
-| Siri | https://georosscustom.netlify.app/gallery/siri/ |
+| Android Gallery | https://georosscustom.netlify.app/gallery/android/ |
+| Siri Gallery | https://georosscustom.netlify.app/gallery/siri/ |
 |Slides||
 |Timeline||
