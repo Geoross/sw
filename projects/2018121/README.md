@@ -64,7 +64,7 @@
 | https://github.com/Geoross/images/blob/master/android.jpg | https://github.com/Geoross/images/blob/master/android-thumb.jpg |
 | https://github.com/Geoross/images/blob/master/siri.jpg | https://github.com/Geoross/images/blob/master/siri-thumb.jpg |
 
-
+**.md αρχεία με τις κατάλληλες περιγραφές**
 | Gallery Link |
 | --- |
   |https://github.com/Geoross/_gallery/blob/master/android.md|
