@@ -24,7 +24,7 @@
 Στόχος μου μέσο του μαθήματος "Τεχνολογία λογισμικού" είναι η εξοικείωση με την διαδικασία, την οργάνωση και την προσαρμογή λογισμικού.
 
 ## ΠΑΡΑΔΟΤΕΟ 2. Βιογραφικό.             
-| Link | |
+| | Link |
 | --- | --- |
 | cv-1 repo | https://github.com/Geoross/cv-1 |
 | asciinema | https://asciinema.org/a/395086 |
@@ -37,7 +37,7 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 3. Αίτημα ενσωμάτωσης στην ιστοσελίδα.
 Χρησιμοποιώντας το Netlify πρόσθεσα στην σελίδα μια ανακοίνωση από το official site στην κατηγορία "Ανακοινώσεις" με τίτλο "Πρότυπα Ιατρεία Μνήμης για πρώτη φορά στην Ελλάδα"
-| Link | |
+|  | Link |
 | --- | --- |
 | repository | https://github.com/Geoross/sitegr/tree/2018121 |
 | site μετά τις αλλαγές | https://p18test.netlify.app/posts/2021/02/20/protypa-iatreia/ |
@@ -57,9 +57,9 @@
 | https://github.com/Geoross/images/blob/master/android.jpg | https://github.com/Geoross/images/blob/master/android-thumb.jpg |
 | https://github.com/Geoross/images/blob/master/siri.jpg | https://github.com/Geoross/images/blob/master/siri-thumb.jpg |
 
-GALLERY:
-| | Gallery Link |
-| --- | --- |
+
+| Gallery Link |
+| --- |
   |https://github.com/Geoross/_gallery/blob/master/android.md|
   |https://github.com/Geoross/_gallery/blob/master/siri.md| 
 
