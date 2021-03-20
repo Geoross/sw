@@ -50,15 +50,15 @@
               Περιγραφή εικόνας 2: https://github.com/Geoross/_gallery/blob/master/siri.md
 
 ## ΠΑΡΑΔΟΤΕΟ 5. Συμμετοχικό περιεχόμενο.             
-**A1**
-Forked
+**A1)**
+**Forked**
 
 | site | https://github.com/Geoross/site |
 | --- | --- |
 | images | https://github.com/Geoross/images |
 | _gallery | https://github.com/Geoross/_gallery |
 
-
+**Images**
 | NORMAL SIZE | THUMB |
 | --- | --- |
 | https://github.com/Geoross/images/blob/master/android.jpg | https://github.com/Geoross/images/blob/master/android-thumb.jpg |
