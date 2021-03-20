@@ -80,3 +80,4 @@
 | Θεματικές διαφάνειες | https://github.com/Geoross/site/blob/master/_slides/iui.md |
 | --- | --- |
 | Χρονολόγιο | https://github.com/Geoross/site/blob/master/_timeline/multimedia.md |
+| Netlify build | https://georosscustom.netlify.app/ |
