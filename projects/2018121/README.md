@@ -80,5 +80,5 @@
 | --- | --- |
 | Android Gallery | https://georosscustom.netlify.app/gallery/android/ |
 | Siri Gallery | https://georosscustom.netlify.app/gallery/siri/ |
-|Slides| https://georosscustom.netlify.app/timeline/multimedia/ | 
-|Timeline| https://georosscustom.netlify.app/slides/iui/ |
+|Slides| https://georosscustom.netlify.app/slides/iui/ | 
+|Timeline| https://georosscustom.netlify.app/timeline/multimedia/ |
